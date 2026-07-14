@@ -1,0 +1,10 @@
+streamlit
+streamlit-folium
+folium
+networkx
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+requests
